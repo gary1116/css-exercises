@@ -1,0 +1,16 @@
+.odd{
+    background-color:  rgb(211, 84, 215);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.rare{
+    font-size: 24px;
+}
+.four{
+    background-color: chartreuse;
+    font-weight: bold;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
